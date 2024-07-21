@@ -15,7 +15,7 @@
  <div align="center">
 
   [![Linkedin Badge](https://img.shields.io/badge/-mhd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/mhd-khalifa-221808211/)](https://www.linkedin.com/in/mhd-khalifa-221808211/)
-  [![Gmail Badge](https://img.shields.io/badge/-mhd.nour.khalifa1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mhd.khalifa02@bilgiedu.net)](mailto:mhd.khalifa02@bilgiedu.net)
+  [![Gmail Badge](https://img.shields.io/badge/-mhd.kkhalifa02@bilgiedu.net-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mhd.khalifa02@bilgiedu.net)](mailto:mhd.khalifa02@bilgiedu.net)
 
 </div>
 <br>
