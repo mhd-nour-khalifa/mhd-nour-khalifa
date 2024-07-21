@@ -11,7 +11,7 @@
 
  📚 I'm interested in cyber security.
 
- 📪 How to reach me ... email: mhd.khalifa02@bilgiedu.net , website: mhd-kali.netlify.app
+ 📪 How to reach me ... email: mhd.khalifa02@bilgiedu.net , website: https://mhd-kali.netlify.app
  <div align="center">
 
   [![Linkedin Badge](https://img.shields.io/badge/-mhd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/mhd-khalifa-221808211/)](https://www.linkedin.com/in/mhd-khalifa-221808211/)
@@ -34,7 +34,7 @@
 | ![MHD github stats](https://github-readme-stats.vercel.app/api?username=rootkh&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![MHD top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rootkh&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=syrashid.syrashid) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/rootkh) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rootkh)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=syrashid.syrashid) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/mhd-nour-khalifa) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mhd-nour-khalifa)
 
 
 
