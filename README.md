@@ -10,8 +10,6 @@
  👋 Hi, I’m @Muhammet-Khalifa
 
  📚 I'm interested in cyber security.
-
- 📪 How to reach me ... email: mhd.khalifa02@bilgiedu.net , website: https://mhd-kali.netlify.app
  <div align="center">
 
   [![Linkedin Badge](https://img.shields.io/badge/-mhd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/mhd-khalifa-221808211/)](https://www.linkedin.com/in/mhd-khalifa-221808211/)
