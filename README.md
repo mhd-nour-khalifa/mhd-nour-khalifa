@@ -15,7 +15,6 @@
   <a href="https://mohammednoor-khalifah.vercel.app/Mohammednoor-Khalifah-CV.pdf"><img src="https://img.shields.io/badge/Download_CV-0969DA?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download CV"></a>
   <a href="https://www.linkedin.com/in/mohammednoor-khalifah-221808211/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:Mhdkhalifax@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=mhd-nour-khalifa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views">
 </p>
 
 ## 🚀 What I'm building
