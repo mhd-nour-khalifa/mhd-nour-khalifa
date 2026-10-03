@@ -1,67 +1,14 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></a>
+# Mohammednoor Khalifah
 
+**AI Product Engineer** in Riyadh, Saudi Arabia. Open to remote and relocation.
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+%F0%9F%91%8B;I&#39;m+Muhammed+Khalifa....;Welcome+to+my+GitHub!&center=true&size=30">
-  </a>
-</h1>
+I connect company operations to AI agents and MCP servers, and ship products people use.
 
- 👋 Hi, I’m @Muhammet-Khalifa
+- **Gasable Group** (ENTEK.AI & Gasable, 1.6M+ customers): cut uninvoiced supplier cost by 50% in one week with a Claude + BigQuery workflow, and connected Claude to the company's platforms through MCP.
+- **[Yusr AI](https://yusr-ai.com)**, co-founder & lead engineer: AI agents that answer customers on WhatsApp and Instagram in Arabic dialects, English and Turkish.
+- **[Casta](https://castanow.com)**, co-founder & lead engineer: iOS and Android casting app used by 2,400+ talents across 138 productions.
+- **[Mnsooq](https://mnsooq.com)**, founder & sole developer: nationwide marketplace with 10,000+ users.
 
- 📚 I'm interested in cyber security.
- <div align="center">
+**Work with:** Claude and LLM agents, MCP, RAG (pgvector), Next.js, React Native, TypeScript, Python, Supabase, Cloudflare Workers, BigQuery.
 
-  [![Linkedin Badge](https://img.shields.io/badge/-mhd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/mhd-khalifa-221808211/)](https://www.linkedin.com/in/mhd-khalifa-221808211/)
-  [![Gmail Badge](https://img.shields.io/badge/-rootkh1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rootkh1@gmail.com)](mailto:rootkh1@gmail.com)
-
-</div>
-<br>
- 
- 
-
-
-
-
-
-
-
-
-### Quick stats about me
-| Github Stats | Top Languages |
-| --- | --- |
-| ![MHD github stats](https://github-readme-stats.vercel.app/api?username=mhd-nour-khalifa&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![MHD top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhd-nour-khalifa&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
-
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/yourusername/yourrepository) 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/yourusername/yourrepository)
-
-
-
-
-
-
-
-
-
-
-
-<h3 align="left">Languages</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-<h3 align="left">Operating system:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-
-
-
-
-
-
-
- 
-
-
-
-
+[Website](https://mohammednoor-khalifah.vercel.app) · [CV](https://mohammednoor-khalifah.vercel.app/Mohammednoor-Khalifah-CV.pdf) · [LinkedIn](https://www.linkedin.com/in/mohammednoor-khalifah-221808211/) · [Email](mailto:Mhdkhalifax@gmail.com)
